@@ -31,6 +31,10 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Csa_Tab)));
     public static final RegistryObject<Item> OBSDIANGALAXYUPGRADE = ITEMS.register("obsidiangalaxyupgrade",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Csa_Tab)));
+    public static final RegistryObject<Item> DIAMONDEMERALDUPGRADE = ITEMS.register("diamondemeraldupgrade",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Csa_Tab)));
+    public static final RegistryObject<Item> EMERALDSMARTUPGRADE = ITEMS.register("emeraldsmartupgrade",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Csa_Tab)));
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
