@@ -1,0 +1,21 @@
+{
+  "item.csa_mod.woodironupgrade": "WoodIronUpgrade",
+  "item.csa_mod.woodcopperupgrade": "WoodCopperUpgrade",
+  "item.csa_mod.irongoldupgrade": "IronGoldUpgrade",
+  "item.csa_mod.copperironupgrade": "CopperIronUpgrade",
+  "item.csa_mod.coppersilverupgrade":"CopperSilverUpgrade",
+  "item.csa_mod.silvergoldupgrade": "SilverGoldUpgrade",
+  "item.csa_mod.golddiamondupgrade":"GoldDiamondUpgrade",
+  "item.csa_mod.diamondcrystalupgrade":"DiamondCrystalUpgrade",
+  "item.csa_mod.diamondobsidianupgrade":"DiamondObsidianUpgrade",
+  "item.csa_mod.obsidiangalaxyupgrade":"ObsidianGalaxyUpgrade",
+
+
+
+
+
+
+
+
+  "itemGroup.CSATAB": "Csa Mod Tab"
+}
