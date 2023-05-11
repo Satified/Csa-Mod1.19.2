@@ -13,6 +13,17 @@
   "item.csa_mod.diamondemeraldupgrade":"DiamondEmeraldUpgrade",
 
 
+  "block.csa_mod.diamond_chest": "DiamondChest",
+  "block.csa_mod.copper_chest": "CopperChest",
+  "block.csa_mod.obsidian_chest": "ObsidianChest",
+  "block.csa_mod.iron_chest": "IronChest",
+  "block.csa_mod.emerald_chest": "EmeraldChest",
+  "block.csa_mod.silver_chest": "SilverChest",
+  "block.csa_mod.smart_chest": "SmartChest",
+  "block.csa_mod.gold_chest": "GoldChest",
+  "block.csa_mod.dirt_chest": "DirtChest",
+  "block.csa_mod.crystal_chest": "CrystalChest",
+  "block.csa_mod.galaxy_chest": "GalaxyChest",
 
 
 

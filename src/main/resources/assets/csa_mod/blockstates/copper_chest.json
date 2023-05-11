@@ -1,0 +1,7 @@
+{
+    "variants": {
+
+        "": {"model": "csa_mod:block/copper_chest"},
+
+    }
+}

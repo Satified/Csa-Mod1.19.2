@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": {"model": "csa_mod:block/smart_chest"}
+    }
+}
