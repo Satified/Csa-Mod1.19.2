@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MGM",
+		"GSG",
+		"MGM"
+	],
+	"key": {
+		"M": {
+			"tag": "c:silver_ingots"
+		},
+		"S": {
+			"item": "csa_mod:iron_chest"
+		},
+		"G": {
+			"tag": "csa_mod:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:silver_chest"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MGM",
+		"GSG",
+		"MGM"
+	],
+	"key": {
+		"M": {
+			"tag": "c:gold_ingots"
+		},
+		"S": {
+			"tag": "c:silver_ingots"
+		},
+		"G": {
+			"tag": "csa_mod:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:silver_gold_upgrade"
+	}
+}

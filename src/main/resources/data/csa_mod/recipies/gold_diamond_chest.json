@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GGG",
+		"MSM",
+		"GGG"
+	],
+	"key": {
+		"M": {
+			"tag": "c:diamonds"
+		},
+		"S": {
+			"item": "csa_mod:gold_chest"
+		},
+		"G": {
+			"tag": "csa_mod:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:diamond_chest"
+	}
+}

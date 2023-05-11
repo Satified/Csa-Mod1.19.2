@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MMM",
+		"MSM",
+		"MMM"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:obsidian"
+		},
+		"S": {
+			"item": "csa_mod:diamond_chest"
+		}
+	},
+	"result": {
+		"item": "csa_mod:obsidian_chest"
+	}
+}
