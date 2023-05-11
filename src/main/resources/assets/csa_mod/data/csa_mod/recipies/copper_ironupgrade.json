@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"MGM",
+		"GSG",
+		"MGM"
+	],
+	"key": {
+		"M": {
+			"tag": "c:iron_ingots"
+		},
+		"S": {
+			"tag": "c:copper_ingots"
+		},
+		"G": {
+			"tag": "minecraft:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:copperironupgrade"
+	}
+}

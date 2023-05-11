@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SWS",
+		"WOW",
+		"SWS"
+	],
+	"key": {
+		"S": {
+			"tag": "minecraft:nether_star"
+		},
+
+		"W": {
+			"tag": "minecraft:wither_skeleton_skull"
+		}
+	},
+	"O": {
+		"tag": "minecraft:obsidian",
+	},
+
+	"result": {
+		"item": "csa_mod:obsidiangalaxyupgrade"
+	}
+}

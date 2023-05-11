@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EDE",
+		"DCD",
+		"EDE"
+	],
+	"key": {
+		"C": {
+			"tag": "csa_mod:diamond_chest"
+		},
+
+		"E": {
+			"tag": "minecraft:emerald"
+		}
+	},
+	"D": {
+		"tag": "minecraft:diamond",
+	},
+
+	"result": {
+		"item": "csa_mod:emerald_chest"
+	}
+}

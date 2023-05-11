@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GGG",
+		"GOG",
+		"GGG"
+	],
+	"key": {
+		"O": {
+			"item": "minecraft:obsidian"
+		},
+		"G": {
+			"tag": "csa_mod:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:diamondcrystalupgrade"
+	}
+}

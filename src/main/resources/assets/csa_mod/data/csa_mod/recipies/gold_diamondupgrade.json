@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GGG",
+		"DSD",
+		"GGG"
+	],
+	"key": {
+		"D": {
+			"tag": "c:diamonds"
+		},
+		"S": {
+			"tag": "c:gold_ingots"
+		},
+		"G": {
+			"tag": "csa_mod:glass"
+		}
+	},
+	"result": {
+		"item": "csa_mod:golddiamondupgrade"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RSR",
+		"SES",
+		"RSR"
+	],
+	"key": {
+		"R": {
+			"tag": "minecraft:nether_star"
+		},
+
+		"E": {
+			"tag": "csa_mod:obsidianchest"
+		}
+	},
+	"G": {
+		"tag": "minecraft:wither_skeleton_skull"
+	},
+
+	"result": {
+		"item": "csa_mod:galaxychest"
+	}
+}

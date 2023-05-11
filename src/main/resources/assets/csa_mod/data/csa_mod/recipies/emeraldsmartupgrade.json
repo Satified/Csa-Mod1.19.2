@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RER",
+		"EGE",
+		"RER"
+	],
+	"key": {
+		"R": {
+			"tag": "minecraft:redstone"
+		},
+
+		"E": {
+			"tag": "minecraft:emerald"
+		}
+	},
+	"G": {
+		"tag": "minecraft:glowstone"
+	},
+
+	"result": {
+		"item": "csa_mod:emeraldsmartupgrade"
+	}
+}
